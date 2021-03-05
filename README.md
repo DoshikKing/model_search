@@ -16,7 +16,7 @@ The ***library, collection, and list*** enables you to:
 for the right model architecture, the right ensemble of models
 and the best distilled models.
 
-* Compare many ***different and simple*** models that are found during the search.
+* Compare many ***different and simple*** "models" that are found during the search.
 
 * Create you own search space to customize the types of layers in your neural networks.
 
